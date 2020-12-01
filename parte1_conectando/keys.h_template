@@ -1,0 +1,4 @@
+//----------------  Coloque aqui suas credenciais   ---------------------
+char ssid[] = "ssid";                    // SSID da rede WiFi (nome da rede) 
+char pass[] = "password";                           // senha da rede WiFi
+//------------------------------------------------------------------
